@@ -1,0 +1,9 @@
+# Private — never commit
+_private/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Claude memory (managed separately)
+claude-memory/
